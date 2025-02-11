@@ -2,7 +2,7 @@
 - 👀 I’m interested in forestry
 - 🌱 I’m currently learning Python and git
 - 💞️ I’m looking to collaborate on forestry software
-- 📫 Don't hesitate to reach out via github
+- 📫 Don't hesitate to reach out via github [Discussions](https://github.com/2mjlux/2mjlux/discussions/1#discussion-7945415)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a former accountant!
 
